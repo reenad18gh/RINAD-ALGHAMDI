@@ -14,7 +14,7 @@
 
 ---
 
-<h2><font color="orange">About Me</font></h2>
+![About Me](https://img.shields.io/badge/About%20Me-FF6F00?style=for-the-badge&logoColor=white)
 
 - Diploma graduate in Computer Networks and Security  
 - Currently studying Data Science  
@@ -22,14 +22,14 @@
 - Former IT Officer in the healthcare sector  
 - Currently transitioning into AI Development  
 
-<h2><font color="orange">Skills</font></h2>
+![Skills](https://img.shields.io/badge/Skills-FF6F00?style=for-the-badge&logoColor=white)
 
 - Network Administration and Cybersecurity  
 - Data Analysis and Model Building  
 - AI Application Development  
 - Systems Management and IT Solutions  
 
-<h2><font color="orange">Tools & Technologies</font></h2>
+![Tools & Technologies](https://img.shields.io/badge/Tools%20%26%20Technologies-FF6F00?style=for-the-badge&logoColor=white)
 
 - Programming: Python, HTML, CSS, JavaScript  
 - Data & AI: Pandas, NumPy, Scikit-learn, TensorFlow  
@@ -37,14 +37,14 @@
 - Cloud & IT: Microsoft Azure, Linux, Windows Server  
 - Others: Canva, Notion, Figma  
 
-<h2><font color="orange">Featured Projects</font></h2>
+![Featured Projects](https://img.shields.io/badge/Featured%20Projects-FF6F00?style=for-the-badge&logoColor=white)
 
 | Project | Description | Link |
 |---------|-------------|------|
 | Interactive Website | Building an interactive website experience | [Link](#) |
 | Mobile Application | Developing a mobile application with interactive features | [Link](#) |
 
-<h2><font color="orange">Contact</font></h2>
+![Contact](https://img.shields.io/badge/Contact-FF6F00?style=for-the-badge&logoColor=white)
 
 - [LinkedIn](https://www.linkedin.com/in/rinad-alghamdi-3967b1245/)  
 - reenad18gh@gmail.com  
