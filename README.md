@@ -1,5 +1,4 @@
-<img src="https://github.com/USERNAME/REPO_NAME/raw/main/IMAGE_NAME.jpeg" alt="Cat in space" width="600">
-
+https://raw.githubusercontent.com/USERNAME/REPO_NAME/branch/IMAGE_NAME.jpeg
 # Rinad Alghamdi
 
 ## About Me
