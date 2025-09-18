@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/reenad18gh/RINAD-ALGHAMDI/main/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center" style="color:orange;">Hi 👋 I'm Rinad Alghamdi</h1>
+<h1 align="center"><font color="orange">Hi 👋 I'm Rinad Alghamdi</font></h1>
 <p align="center">Data Science Student | AI Enthusiast | Former IT Officer</p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-<h2 style="color:orange;">About Me</h2>
+<h2><font color="orange">About Me</font></h2>
 
 - Diploma graduate in Computer Networks and Security  
 - Currently studying Data Science  
@@ -22,14 +22,14 @@
 - Former IT Officer in the healthcare sector  
 - Currently transitioning into AI Development  
 
-<h2 style="color:orange;">Skills</h2>
+<h2><font color="orange">Skills</font></h2>
 
 - Network Administration and Cybersecurity  
 - Data Analysis and Model Building  
 - AI Application Development  
 - Systems Management and IT Solutions  
 
-<h2 style="color:orange;">Tools & Technologies</h2>
+<h2><font color="orange">Tools & Technologies</font></h2>
 
 - Programming: Python, HTML, CSS, JavaScript  
 - Data & AI: Pandas, NumPy, Scikit-learn, TensorFlow  
@@ -37,14 +37,14 @@
 - Cloud & IT: Microsoft Azure, Linux, Windows Server  
 - Others: Canva, Notion, Figma  
 
-<h2 style="color:orange;">Featured Projects</h2>
+<h2><font color="orange">Featured Projects</font></h2>
 
 | Project | Description | Link |
 |---------|-------------|------|
 | Interactive Website | Building an interactive website experience | [Link](#) |
 | Mobile Application | Developing a mobile application with interactive features | [Link](#) |
 
-<h2 style="color:orange;">Contact</h2>
+<h2><font color="orange">Contact</font></h2>
 
 - [LinkedIn](https://www.linkedin.com/in/rinad-alghamdi-3967b1245/)  
 - reenad18gh@gmail.com  
