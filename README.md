@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/reenad18gh/RINAD-ALGHAMDI/main/banner.png" alt="Banner" width="100%">
 </p>
-<h1 align="center">Hi 👋 I'm Rinad Alghamdi</h1>
+<h1 align="center">Hi I'm Rinad Alghamdi</h1>
 <p align="center">Data Science Student | AI Enthusiast | Former IT Officer</p>
 
 <p align="center">
