@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/reenad18gh/RINAD-ALGHAMDI/main/catspace.jpeg" alt="Cat in space" width="600">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/reenad18gh/RINAD-ALGHAMDI/main/catspace.jpeg" alt="Banner" width="100%">
+</p>
+
 
 #Rinad Alghamdi
 
