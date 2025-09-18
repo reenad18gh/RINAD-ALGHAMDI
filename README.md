@@ -1,7 +1,7 @@
 # Rinad Alghamdi
 
 ## About Me
-- Diploma graduate in Computer Networks and Security  
+- graduate in Computer Networks and Security  
 - Currently studying Data Science  
 - Passionate about Artificial Intelligence and its applications  
 - Former IT Officer in the healthcare sector  
