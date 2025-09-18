@@ -16,8 +16,8 @@
 ## Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| Project 1 | Example of an AI project | [Link](#) |
-| Project 2 | Data analysis project | [Link](#) |
+| Interactive Website | Building an interactive website experience | [Link](#) |
+| Mobile Application | Developing a mobile application with interactive features | [Link](#) |
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/rinad-alghamdi-3967b1245/)  
