@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/reenad18gh/RINAD-ALGHAMDI/main/catspace.jpeg" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/reenad18gh/RINAD-ALGHAMDI/main/banner.png" alt="Banner" width="100%">
 </p>
-
 
 #Rinad Alghamdi
 
