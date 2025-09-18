@@ -1,11 +1,4 @@
-<div align="center">
-  <img height="200" src="https://pin.it/4OccTJLT4"  />
-</div>
-
-###
-
-
-
+<img src="https://github.com/USERNAME/REPO_NAME/raw/main/IMAGE_NAME.jpeg" alt="Cat in space" width="600">
 
 # Rinad Alghamdi
 
