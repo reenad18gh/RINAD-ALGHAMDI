@@ -1,4 +1,18 @@
-<!-- بانر -->
+<!-- بانر --><table width="100%">
+  <tr>
+    <td align="center" bgcolor="#0b1a34" style="padding:30px;">
+      <h1 style="color:#FF6F00;">Hi I'm Rinad Alghamdi</h1>
+      <p style="color:white;">Data Science Student | AI Enthusiast | Former IT Officer</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge">
+        <img src="https://img.shields.io/badge/AI%20Developer-FF6F00?style=for-the-badge">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/reenad18gh/RINAD-ALGHAMDI/main/banner.png" alt="Banner" width="100%">
 </p>
