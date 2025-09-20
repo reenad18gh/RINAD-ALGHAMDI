@@ -1,30 +1,32 @@
-<!-- بانر -->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/reenad18gh/RINAD-ALGHAMDI/main/banner.png" alt="Banner" width="100%">
 </p>
 
-<!-- مربع كحلي للعنوان والوصف -->
-<table width="100%">
+<!-- Header card (navy) -->
+<table width="100%" role="presentation">
   <tr>
-    <td align="center" bgcolor="#0b1a34" style="padding:30px;">
-      <h1 style="color:#FF6F00;">Hi I'm Rinad Alghamdi</h1>
-      <p style="color:white;">Data Science Student | AI Enthusiast | Former IT Officer</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge">
-        <img src="https://img.shields.io/badge/AI%20Developer-FF6F00?style=for-the-badge">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <td align="center" bgcolor="#0b1a34" style="padding:28px;">
+      <h1 style="color:#FF6F00;margin:0 0 10px 0;">Hi I'm Rinad Alghamdi</h1>
+      <p style="color:#ffffff;margin:0 0 16px 0;">Data Science Student | AI Enthusiast | Former IT Officer</p>
+      <p style="margin:0;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge" alt="Data Science">
+        <img src="https://img.shields.io/badge/AI%20Developer-FF6F00?style=for-the-badge" alt="AI Developer">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </p>
     </td>
   </tr>
 </table>
 
-<!-- مربع كحلي لـ About Me -->
-<table width="100%">
+<!-- About -->
+<table width="100%" role="presentation">
   <tr>
     <td bgcolor="#0b1a34" style="padding:20px;">
-      <h2 style="color:#FF6F00;" align="center">About Me</h2>
-      <ul style="color:white;">
+      <p align="center" style="margin:0 0 12px 0;">
+        <img src="https://img.shields.io/badge/About%20Me-FF6F00?style=for-the-badge&logoColor=white" alt="About Me">
+      </p>
+      <ul style="color:#ffffff;margin:0 16px;">
         <li>Diploma graduate in Computer Networks and Security</li>
         <li>Currently studying Data Science</li>
         <li>Passionate about Artificial Intelligence and its applications</li>
@@ -35,12 +37,14 @@
   </tr>
 </table>
 
-<!-- مربع كحلي لـ Skills -->
-<table width="100%">
+<!-- Skills -->
+<table width="100%" role="presentation">
   <tr>
     <td bgcolor="#0b1a34" style="padding:20px;">
-      <h2 style="color:#FF6F00;" align="center">Skills</h2>
-      <ul style="color:white;">
+      <p align="center" style="margin:0 0 12px 0;">
+        <img src="https://img.shields.io/badge/Skills-FF6F00?style=for-the-badge&logoColor=white" alt="Skills">
+      </p>
+      <ul style="color:#ffffff;margin:0 16px;">
         <li>Network Administration and Cybersecurity</li>
         <li>Data Analysis and Model Building</li>
         <li>AI Application Development</li>
@@ -50,62 +54,67 @@
   </tr>
 </table>
 
-<!-- مربع كحلي لـ Tools & Technologies -->
-<table width="100%">
+<!-- Tools & Technologies -->
+<table width="100%" role="presentation">
   <tr>
     <td bgcolor="#0b1a34" style="padding:20px;">
-      <h2 style="color:#FF6F00;" align="center">Tools & Technologies</h2>
-      <ul style="color:white;">
+      <p align="center" style="margin:0 0 12px 0;">
+        <img src="https://img.shields.io/badge/Tools%20%26%20Technologies-FF6F00?style=for-the-badge&logoColor=white" alt="Tools & Technologies">
+      </p>
+      <ul style="color:#ffffff;margin:0 16px;">
         <li>Programming: Python, HTML, CSS, JavaScript</li>
-        <li>Data & AI: Pandas, NumPy, Scikit-learn, TensorFlow</li>
+        <li>Data &amp; AI: Pandas, NumPy, Scikit-learn, TensorFlow</li>
         <li>Version Control: Git, GitHub</li>
-        <li>Cloud & IT: Microsoft Azure, Linux, Windows Server</li>
+        <li>Cloud &amp; IT: Microsoft Azure, Linux, Windows Server</li>
         <li>Others: Canva, Notion, Figma</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<!-- مربع كحلي لـ Featured Projects -->
-<table width="100%">
+<!-- Featured Projects -->
+<table width="100%" role="presentation">
   <tr>
     <td bgcolor="#0b1a34" style="padding:20px;">
-      <h2 style="color:#FF6F00;" align="center">Featured Projects</h2>
-      <table align="center">
+      <p align="center" style="margin:0 0 12px 0;">
+        <img src="https://img.shields.io/badge/Featured%20Projects-FF6F00?style=for-the-badge&logoColor=white" alt="Featured Projects">
+      </p>
+      <table align="center" role="presentation" style="border-collapse:collapse;">
         <tr>
-          <th style="color:white;padding:5px;">Project</th>
-          <th style="color:white;padding:5px;">Description</th>
-          <th style="color:white;padding:5px;">Link</th>
+          <th style="color:#ffffff;padding:6px 10px;text-align:left;">Project</th>
+          <th style="color:#ffffff;padding:6px 10px;text-align:left;">Description</th>
+          <th style="color:#ffffff;padding:6px 10px;text-align:left;">Link</th>
         </tr>
         <tr>
-          <td style="color:white;padding:5px;">Interactive Website</td>
-          <td style="color:white;padding:5px;">Building an interactive website experience</td>
-          <td style="color:white;padding:5px;"><a href="#" style="color:#FF6F00;">Link</a></td>
+          <td style="color:#ffffff;padding:6px 10px;">Interactive Website</td>
+          <td style="color:#ffffff;padding:6px 10px;">Building an interactive website experience</td>
+          <td style="padding:6px 10px;"><a href="#" style="color:#FF6F00;">Link</a></td>
         </tr>
         <tr>
-          <td style="color:white;padding:5px;">Mobile Application</td>
-          <td style="color:white;padding:5px;">Developing a mobile application with interactive features</td>
-          <td style="color:white;padding:5px;"><a href="#" style="color:#FF6F00;">Link</a></td>
+          <td style="color:#ffffff;padding:6px 10px;">Mobile Application</td>
+          <td style="color:#ffffff;padding:6px 10px;">Developing a mobile application with interactive features</td>
+          <td style="padding:6px 10px;"><a href="#" style="color:#FF6F00;">Link</a></td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
 
-<!-- مربع كحلي لـ Contact -->
-<table width="100%">
+<!-- Contact -->
+<table width="100%" role="presentation">
   <tr>
-    <td bgcolor="#0b1a34" style="padding:20px;" align="center">
-      <h2 style="color:#FF6F00;">Contact</h2>
-      <p>
+    <td align="center" bgcolor="#0b1a34" style="padding:20px;">
+      <p style="margin:0 0 12px 0;">
+        <img src="https://img.shields.io/badge/Contact-FF6F00?style=for-the-badge&logoColor=white" alt="Contact">
+      </p>
+      <p style="margin:0;">
         <a href="https://www.linkedin.com/in/rinad-alghamdi-3967b1245/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=reenad18gh@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email%20Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+          <img src="https://img.shields.io/badge/Email%20Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
         </a>
       </p>
     </td>
   </tr>
 </table>
-
