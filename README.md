@@ -4,7 +4,7 @@
 </p>
 
 <!-- Header card (navy) -->
-<table width="100%" role="presentation">
+<table width="100%" role="presentation" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" bgcolor="#0b1a34" style="padding:28px;">
       <h1 style="color:#FF6F00;margin:0 0 10px 0;">Hi I'm Rinad Alghamdi</h1>
@@ -20,12 +20,10 @@
 </table>
 
 <!-- About -->
-<table width="100%" role="presentation">
+<table width="100%" role="presentation" cellspacing="0" cellpadding="0">
   <tr>
     <td bgcolor="#0b1a34" style="padding:20px;">
-      <p align="center" style="margin:0 0 12px 0;">
-        <img src="https://img.shields.io/badge/About%20Me-FF6F00?style=for-the-badge&logoColor=white" alt="About Me">
-      </p>
+      <h2 style="color:#FF6F00;text-align:center;margin:0 0 12px 0;">About Me</h2>
       <ul style="color:#ffffff;margin:0 16px;">
         <li>Diploma graduate in Computer Networks and Security</li>
         <li>Currently studying Data Science</li>
@@ -38,12 +36,10 @@
 </table>
 
 <!-- Skills -->
-<table width="100%" role="presentation">
+<table width="100%" role="presentation" cellspacing="0" cellpadding="0">
   <tr>
     <td bgcolor="#0b1a34" style="padding:20px;">
-      <p align="center" style="margin:0 0 12px 0;">
-        <img src="https://img.shields.io/badge/Skills-FF6F00?style=for-the-badge&logoColor=white" alt="Skills">
-      </p>
+      <h2 style="color:#FF6F00;text-align:center;margin:0 0 12px 0;">Skills</h2>
       <ul style="color:#ffffff;margin:0 16px;">
         <li>Network Administration and Cybersecurity</li>
         <li>Data Analysis and Model Building</li>
@@ -55,12 +51,10 @@
 </table>
 
 <!-- Tools & Technologies -->
-<table width="100%" role="presentation">
+<table width="100%" role="presentation" cellspacing="0" cellpadding="0">
   <tr>
     <td bgcolor="#0b1a34" style="padding:20px;">
-      <p align="center" style="margin:0 0 12px 0;">
-        <img src="https://img.shields.io/badge/Tools%20%26%20Technologies-FF6F00?style=for-the-badge&logoColor=white" alt="Tools & Technologies">
-      </p>
+      <h2 style="color:#FF6F00;text-align:center;margin:0 0 12px 0;">Tools & Technologies</h2>
       <ul style="color:#ffffff;margin:0 16px;">
         <li>Programming: Python, HTML, CSS, JavaScript</li>
         <li>Data &amp; AI: Pandas, NumPy, Scikit-learn, TensorFlow</li>
@@ -72,13 +66,11 @@
   </tr>
 </table>
 
-<!-- Featured Projects -->
-<table width="100%" role="presentation">
+<!-- Projects -->
+<table width="100%" role="presentation" cellspacing="0" cellpadding="0">
   <tr>
     <td bgcolor="#0b1a34" style="padding:20px;">
-      <p align="center" style="margin:0 0 12px 0;">
-        <img src="https://img.shields.io/badge/Featured%20Projects-FF6F00?style=for-the-badge&logoColor=white" alt="Featured Projects">
-      </p>
+      <h2 style="color:#FF6F00;text-align:center;margin:0 0 12px 0;">Featured Projects</h2>
       <table align="center" role="presentation" style="border-collapse:collapse;">
         <tr>
           <th style="color:#ffffff;padding:6px 10px;text-align:left;">Project</th>
@@ -101,12 +93,10 @@
 </table>
 
 <!-- Contact -->
-<table width="100%" role="presentation">
+<table width="100%" role="presentation" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" bgcolor="#0b1a34" style="padding:20px;">
-      <p style="margin:0 0 12px 0;">
-        <img src="https://img.shields.io/badge/Contact-FF6F00?style=for-the-badge&logoColor=white" alt="Contact">
-      </p>
+      <h2 style="color:#FF6F00;margin:0 0 12px 0;">Contact</h2>
       <p style="margin:0;">
         <a href="https://www.linkedin.com/in/rinad-alghamdi-3967b1245/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
