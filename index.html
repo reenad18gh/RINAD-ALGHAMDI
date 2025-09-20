@@ -1,48 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Rinad Alghamdi</title>
 <style>
   *{margin:0;padding:0;box-sizing:border-box}
   html,body{height:100%;font-family:Arial,system-ui,sans-serif}
+
+  /* الفيديو الخلفية */
   #bg-video{
     position:fixed;inset:0;
     min-width:100%;min-height:100%;
-    width:auto;height:auto;object-fit:cover;z-index:-1;background:#000
+    width:auto;height:auto;
+    object-fit:cover;z-index:-1;
+    background:#000;
   }
+
+  /* المحتوى */
   .content{
-    min-height:100vh;display:flex;flex-direction:column;
-    justify-content:center;align-items:center;text-align:center;
-    color:#fff;padding:24px;background:rgba(0,0,0,.35)
+    min-height:100vh;
+    display:flex;flex-direction:column;
+    justify-content:center;align-items:center;
+    text-align:center;
+    color:#fff;
+    padding:24px;
+    background:rgba(0,0,0,.4); /* طبقة شفافة فوق الفيديو */
   }
-  h1{font-size:3rem;margin-bottom:12px}
-  .subtitle{opacity:.9}
-  .msg{position:fixed;left:8px;bottom:8px;font:12px/1.4 monospace;color:#fff;background:rgba(0,0,0,.5);padding:6px 8px;border-radius:6px}
+
+  h1{font-size:3rem;margin-bottom:12px;color:orange}
+  .subtitle{font-size:1.2rem;margin-bottom:20px}
+  .badges img{margin:4px}
 </style>
 </head>
 <body>
 
-<!-- غيّري src للأقوى تطابقاً مع ملفك -->
-<video id="bg-video" autoplay muted loop playsinline preload="auto" poster="banner.png">
-  <source src="./video.mp4" type="video/mp4" />
-  <!-- بديل: رابط RAW مؤقتاً لاختبار المسار -->
-  <!-- <source src="https://raw.githubusercontent.com/reenad18gh/RINAD-ALGHAMDI/main/video.mp4" type="video/mp4" /> -->
+<!-- الفيديو الخلفية -->
+<video id="bg-video" autoplay muted loop playsinline>
+  <source src="./video.mp4" type="video/mp4">
 </video>
 
+<!-- المحتوى فوق الفيديو -->
 <div class="content">
   <h1>Hi I'm Rinad Alghamdi</h1>
   <p class="subtitle">Data Science Student | AI Enthusiast | Former IT Officer</p>
+  <div class="badges">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge">
+    <img src="https://img.shields.io/badge/AI%20Developer-FF6F00?style=for-the-badge">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </div>
 </div>
-
-<script>
-  const v = document.getElementById('bg-video');
-  const note = (t)=>{const d=document.createElement('div');d.className='msg';d.textContent=t;document.body.appendChild(d)};
-  v.addEventListener('loadeddata', ()=>note('video: loaded'));
-  v.addEventListener('error', (e)=>note('video error: تحقق من المسار والترميز'));
-  if (!v.muted) { v.muted = true; v.play().catch(()=>note('autoplay blocked')); }
-</script>
 
 </body>
 </html>
