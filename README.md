@@ -1,10 +1,9 @@
-<!-- بانر --><table width="100%">
-
+<!-- بانر -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/reenad18gh/RINAD-ALGHAMDI/main/banner.png" alt="Banner" width="100%">
 </p>
 
-<!-- مربع بخلفية كحلي للعنوان والوصف -->
+<!-- مربع كحلي للعنوان والوصف -->
 <table width="100%">
   <tr>
     <td align="center" bgcolor="#0b1a34" style="padding:30px;">
@@ -20,39 +19,93 @@
   </tr>
 </table>
 
+<!-- مربع كحلي لـ About Me -->
+<table width="100%">
+  <tr>
+    <td bgcolor="#0b1a34" style="padding:20px;">
+      <h2 style="color:#FF6F00;" align="center">About Me</h2>
+      <ul style="color:white;">
+        <li>Diploma graduate in Computer Networks and Security</li>
+        <li>Currently studying Data Science</li>
+        <li>Passionate about Artificial Intelligence and its applications</li>
+        <li>Former IT Officer in the healthcare sector</li>
+        <li>Currently transitioning into AI Development</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-![About Me](https://img.shields.io/badge/About%20Me-FF6F00?style=for-the-badge&logoColor=white)
+<!-- مربع كحلي لـ Skills -->
+<table width="100%">
+  <tr>
+    <td bgcolor="#0b1a34" style="padding:20px;">
+      <h2 style="color:#FF6F00;" align="center">Skills</h2>
+      <ul style="color:white;">
+        <li>Network Administration and Cybersecurity</li>
+        <li>Data Analysis and Model Building</li>
+        <li>AI Application Development</li>
+        <li>Systems Management and IT Solutions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- Diploma graduate in Computer Networks and Security  
-- Currently studying Data Science  
-- Passionate about Artificial Intelligence and its applications  
-- Former IT Officer in the healthcare sector  
-- Currently transitioning into AI Development  
+<!-- مربع كحلي لـ Tools & Technologies -->
+<table width="100%">
+  <tr>
+    <td bgcolor="#0b1a34" style="padding:20px;">
+      <h2 style="color:#FF6F00;" align="center">Tools & Technologies</h2>
+      <ul style="color:white;">
+        <li>Programming: Python, HTML, CSS, JavaScript</li>
+        <li>Data & AI: Pandas, NumPy, Scikit-learn, TensorFlow</li>
+        <li>Version Control: Git, GitHub</li>
+        <li>Cloud & IT: Microsoft Azure, Linux, Windows Server</li>
+        <li>Others: Canva, Notion, Figma</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-![Skills](https://img.shields.io/badge/Skills-FF6F00?style=for-the-badge&logoColor=white)
+<!-- مربع كحلي لـ Featured Projects -->
+<table width="100%">
+  <tr>
+    <td bgcolor="#0b1a34" style="padding:20px;">
+      <h2 style="color:#FF6F00;" align="center">Featured Projects</h2>
+      <table align="center">
+        <tr>
+          <th style="color:white;padding:5px;">Project</th>
+          <th style="color:white;padding:5px;">Description</th>
+          <th style="color:white;padding:5px;">Link</th>
+        </tr>
+        <tr>
+          <td style="color:white;padding:5px;">Interactive Website</td>
+          <td style="color:white;padding:5px;">Building an interactive website experience</td>
+          <td style="color:white;padding:5px;"><a href="#" style="color:#FF6F00;">Link</a></td>
+        </tr>
+        <tr>
+          <td style="color:white;padding:5px;">Mobile Application</td>
+          <td style="color:white;padding:5px;">Developing a mobile application with interactive features</td>
+          <td style="color:white;padding:5px;"><a href="#" style="color:#FF6F00;">Link</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-- Network Administration and Cybersecurity  
-- Data Analysis and Model Building  
-- AI Application Development  
-- Systems Management and IT Solutions  
-
-![Tools & Technologies](https://img.shields.io/badge/Tools%20%26%20Technologies-FF6F00?style=for-the-badge&logoColor=white)
-
-- Programming: Python, HTML, CSS, JavaScript  
-- Data & AI: Pandas, NumPy, Scikit-learn, TensorFlow  
-- Version Control: Git, GitHub  
-- Cloud & IT: Microsoft Azure, Linux, Windows Server  
-- Others: Canva, Notion, Figma  
-
-![Featured Projects](https://img.shields.io/badge/Featured%20Projects-FF6F00?style=for-the-badge&logoColor=white)
-
-| Project | Description | Link |
-|---------|-------------|------|
-| Interactive Website | Building an interactive website experience | [Link](#) |
-| Mobile Application | Developing a mobile application with interactive features | [Link](#) |
-
-![Contact](https://img.shields.io/badge/Contact-FF6F00?style=for-the-badge&logoColor=white)
-
-- [LinkedIn](https://www.linkedin.com/in/rinad-alghamdi-3967b1245/)  
-- [Email Me on Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=reenad18gh@gmail.com)
+<!-- مربع كحلي لـ Contact -->
+<table width="100%">
+  <tr>
+    <td bgcolor="#0b1a34" style="padding:20px;" align="center">
+      <h2 style="color:#FF6F00;">Contact</h2>
+      <p>
+        <a href="https://www.linkedin.com/in/rinad-alghamdi-3967b1245/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=reenad18gh@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email%20Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
