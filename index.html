@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rinad Alghamdi</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{height:100%;font-family:Arial,system-ui,sans-serif}
+
+  /* خلفية الفيديو لكامل الصفحة */
+  #bg-video{
+    position:fixed;inset:0;
+    min-width:100%;min-height:100%;
+    width:auto;height:auto;
+    object-fit:cover;z-index:-1;
+  }
+
+  /* محتوى فوق الفيديو */
+  .content{
+    min-height:100vh;
+    display:flex;flex-direction:column;
+    justify-content:center;align-items:center;
+    text-align:center;color:#fff;padding:24px;
+    background:rgba(0,0,0,.4);
+  }
+  h1{font-size:3rem;margin-bottom:12px;color:orange}
+  .subtitle{font-size:1.1rem;margin-bottom:14px}
+
+  .badges img{margin:4px}
+  .section{
+    margin-top:18px;max-width:900px;width:100%;
+    background:rgba(0,0,0,.55);padding:18px;border-radius:12px;
+    text-align:left
+  }
+  .section h2{color:orange;margin:0 0 8px}
+  .section ul{margin-left:18px}
+  a{color:orange;text-decoration:none}
+  table{width:100%;border-collapse:collapse}
+  th,td{padding:6px 8px;color:#fff}
+  th{text-align:left}
+</style>
+</head>
+<body>
+
+<!-- الفيديو الخلفية -->
+<video id="bg-video" autoplay muted loop playsinline>
+  <source src="./video.mp4" type="video/mp4">
+</video>
+
+<!-- المحتوى -->
+<div class="content">
+  <h1>Hi I'm Rinad Alghamdi</h1>
+  <p class="subtitle">Data Science Student | AI Enthusiast | Former IT Officer</p>
+
+  <div class="badges">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge" alt="Data Science">
+    <img src="https://img.shields.io/badge/AI%20Developer-FF6F00?style=for-the-badge" alt="AI Dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </div>
+
+  <div class="section">
+    <h2>About Me</h2>
+    <ul>
+      <li>Graduate in Computer Networks and Security – IAU</li>
+      <li>Currently studying Data Science – SEU</li>
+      <li>Passionate about AI applications</li>
+      <li>Former IT Officer in healthcare</li>
+      <li>Transitioning into AI Development</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li>Network Administration and Cybersecurity</li>
+      <li>Data Analysis and Model Building</li>
+      <li>AI Application Development</li>
+      <li>Systems Management and IT Solutions</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Tools & Technologies</h2>
+    <ul>
+      <li>Python, HTML, CSS, JavaScript</li>
+      <li>Pandas, NumPy, Scikit-learn, TensorFlow</li>
+      <li>Git, GitHub</li>
+      <li>Microsoft Azure, Linux, Windows Server</li>
+      <li>Canva, Notion, Figma</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Featured Projects</h2>
+    <table>
+      <tr><th>Project</th><th>Description</th><th>Link</th></tr>
+      <tr><td>Interactive Website</td><td>Interactive web experience</td><td><a href="#">Link</a></td></tr>
+      <tr><td>Mobile Application</td><td>App with interactive features</td><td><a href="#">Link</a></td></tr>
+    </table>
+  </div>
+
+  <div class="section">
+    <h2>Contact</h2>
+    <p>
+      <a href="https://www.linkedin.com/in/rinad-alghamdi-3967b1245/" target="_blank">LinkedIn</a> |
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=reenad18gh@gmail.com" target="_blank">Email</a>
+    </p>
+  </div>
+</div>
+
+</body>
+</html>
