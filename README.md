@@ -1,17 +1,20 @@
+<!-- بانر -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/reenad18gh/RINAD-ALGHAMDI/main/banner.png" alt="Banner" width="100%">
 </p>
 
+<!-- مربع بخلفية كحلي للعنوان والوصف -->
+<div style="background:#0b1a34; padding:30px; text-align:center; border-radius:12px;">
+  <h1 style="color:#FF6F00;">Hi I'm Rinad Alghamdi</h1>
+  <p style="color:white;">Data Science Student | AI Enthusiast | Former IT Officer</p>
 
-<h1 align="center"><font color="orange">Hi I'm Rinad Alghamdi</font></h1>
-<p align="center">Data Science Student | AI Enthusiast | Former IT Officer</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI%20Developer-FF6F00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge">
+    <img src="https://img.shields.io/badge/AI%20Developer-FF6F00?style=for-the-badge">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </p>
+</div>
 
 ---
 
@@ -47,10 +50,6 @@
 
 ![Contact](https://img.shields.io/badge/Contact-FF6F00?style=for-the-badge&logoColor=white)
 
-![Contact](https://img.shields.io/badge/Contact-FF6F00?style=for-the-badge&logoColor=white)
-
 - [LinkedIn](https://www.linkedin.com/in/rinad-alghamdi-3967b1245/)  
 - [Email Me on Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=reenad18gh@gmail.com)
-
-
 
