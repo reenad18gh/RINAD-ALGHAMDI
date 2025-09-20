@@ -17,8 +17,8 @@
 
 ![About Me](https://img.shields.io/badge/About%20Me-FF6F00?style=for-the-badge&logoColor=white)
 
-- graduate in Computer Networks and Security  
-- Currently studying Data Science  
+- graduate in Computer Networks and Security From IAU 
+- Currently studying Data Science In SEU
 - Passionate about Artificial Intelligence and its applications  
 - Former IT Officer in the healthcare sector  
 - Currently transitioning into AI Development  
