@@ -17,7 +17,7 @@
 
 ![About Me](https://img.shields.io/badge/About%20Me-FF6F00?style=for-the-badge&logoColor=white)
 
-- Diploma graduate in Computer Networks and Security  
+- graduate in Computer Networks and Security  
 - Currently studying Data Science  
 - Passionate about Artificial Intelligence and its applications  
 - Former IT Officer in the healthcare sector  
